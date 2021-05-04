@@ -1,0 +1,612 @@
+[
+    {
+        "dailyconfirmed": "12270",
+        "dailydeceased": "92",
+        "dailyrecovered": "12472",
+        "date": "1 March 2021",
+        "dateymd": "2021-03-01",
+        "totalconfirmed": "11124248",
+        "totaldeceased": "156695",
+        "totalrecovered": "10796873"
+    },
+    {
+        "dailyconfirmed": "14998",
+        "dailydeceased": "98",
+        "dailyrecovered": "13113",
+        "date": "2 March 2021",
+        "dateymd": "2021-03-02",
+        "totalconfirmed": "11139246",
+        "totaldeceased": "156793",
+        "totalrecovered": "10809986"
+    },
+    {
+        "dailyconfirmed": "17425",
+        "dailydeceased": "87",
+        "dailyrecovered": "14071",
+        "date": "3 March 2021",
+        "dateymd": "2021-03-03",
+        "totalconfirmed": "11156671",
+        "totaldeceased": "156880",
+        "totalrecovered": "10824057"
+    },
+    {
+        "dailyconfirmed": "16824",
+        "dailydeceased": "113",
+        "dailyrecovered": "13788",
+        "date": "4 March 2021",
+        "dateymd": "2021-03-04",
+        "totalconfirmed": "11173495",
+        "totaldeceased": "156993",
+        "totalrecovered": "10837845"
+    },
+    {
+        "dailyconfirmed": "18324",
+        "dailydeceased": "109",
+        "dailyrecovered": "14186",
+        "date": "5 March 2021",
+        "dateymd": "2021-03-05",
+        "totalconfirmed": "11191819",
+        "totaldeceased": "157102",
+        "totalrecovered": "10852031"
+    },
+    {
+        "dailyconfirmed": "18724",
+        "dailydeceased": "100",
+        "dailyrecovered": "14379",
+        "date": "6 March 2021",
+        "dateymd": "2021-03-06",
+        "totalconfirmed": "11210543",
+        "totaldeceased": "157202",
+        "totalrecovered": "10866410"
+    },
+    {
+        "dailyconfirmed": "18650",
+        "dailydeceased": "97",
+        "dailyrecovered": "14303",
+        "date": "7 March 2021",
+        "dateymd": "2021-03-07",
+        "totalconfirmed": "11229193",
+        "totaldeceased": "157299",
+        "totalrecovered": "10880713"
+    },
+    {
+        "dailyconfirmed": "15353",
+        "dailydeceased": "76",
+        "dailyrecovered": "16606",
+        "date": "8 March 2021",
+        "dateymd": "2021-03-08",
+        "totalconfirmed": "11244546",
+        "totaldeceased": "157375",
+        "totalrecovered": "10897319"
+    },
+    {
+        "dailyconfirmed": "17873",
+        "dailydeceased": "133",
+        "dailyrecovered": "20643",
+        "date": "9 March 2021",
+        "dateymd": "2021-03-09",
+        "totalconfirmed": "11262419",
+        "totaldeceased": "157508",
+        "totalrecovered": "10917962"
+    },
+    {
+        "dailyconfirmed": "22851",
+        "dailydeceased": "125",
+        "dailyrecovered": "18154",
+        "date": "10 March 2021",
+        "dateymd": "2021-03-10",
+        "totalconfirmed": "11285270",
+        "totaldeceased": "157633",
+        "totalrecovered": "10936116"
+    },
+    {
+        "dailyconfirmed": "23298",
+        "dailydeceased": "119",
+        "dailyrecovered": "15092",
+        "date": "11 March 2021",
+        "dateymd": "2021-03-11",
+        "totalconfirmed": "11308568",
+        "totaldeceased": "157752",
+        "totalrecovered": "10951208"
+    },
+    {
+        "dailyconfirmed": "24845",
+        "dailydeceased": "140",
+        "dailyrecovered": "19972",
+        "date": "12 March 2021",
+        "dateymd": "2021-03-12",
+        "totalconfirmed": "11333413",
+        "totaldeceased": "157892",
+        "totalrecovered": "10971180"
+    },
+    {
+        "dailyconfirmed": "25154",
+        "dailydeceased": "159",
+        "dailyrecovered": "16508",
+        "date": "13 March 2021",
+        "dateymd": "2021-03-13",
+        "totalconfirmed": "11358567",
+        "totaldeceased": "158051",
+        "totalrecovered": "10987688"
+    },
+    {
+        "dailyconfirmed": "26513",
+        "dailydeceased": "120",
+        "dailyrecovered": "17590",
+        "date": "14 March 2021",
+        "dateymd": "2021-03-14",
+        "totalconfirmed": "11385080",
+        "totaldeceased": "158171",
+        "totalrecovered": "11005278"
+    },
+    {
+        "dailyconfirmed": "24437",
+        "dailydeceased": "130",
+        "dailyrecovered": "20186",
+        "date": "15 March 2021",
+        "dateymd": "2021-03-15",
+        "totalconfirmed": "11409517",
+        "totaldeceased": "158301",
+        "totalrecovered": "11025464"
+    },
+    {
+        "dailyconfirmed": "28869",
+        "dailydeceased": "187",
+        "dailyrecovered": "17746",
+        "date": "16 March 2021",
+        "dateymd": "2021-03-16",
+        "totalconfirmed": "11438386",
+        "totaldeceased": "158488",
+        "totalrecovered": "11043210"
+    },
+    {
+        "dailyconfirmed": "35838",
+        "dailydeceased": "171",
+        "dailyrecovered": "17793",
+        "date": "17 March 2021",
+        "dateymd": "2021-03-17",
+        "totalconfirmed": "11474224",
+        "totaldeceased": "158659",
+        "totalrecovered": "11061003"
+    },
+    {
+        "dailyconfirmed": "39687",
+        "dailydeceased": "156",
+        "dailyrecovered": "20356",
+        "date": "18 March 2021",
+        "dateymd": "2021-03-18",
+        "totalconfirmed": "11513911",
+        "totaldeceased": "158815",
+        "totalrecovered": "11081359"
+    },
+    {
+        "dailyconfirmed": "40906",
+        "dailydeceased": "188",
+        "dailyrecovered": "23623",
+        "date": "19 March 2021",
+        "dateymd": "2021-03-19",
+        "totalconfirmed": "11554817",
+        "totaldeceased": "159003",
+        "totalrecovered": "11104982"
+    },
+    {
+        "dailyconfirmed": "43815",
+        "dailydeceased": "196",
+        "dailyrecovered": "22971",
+        "date": "20 March 2021",
+        "dateymd": "2021-03-20",
+        "totalconfirmed": "11598632",
+        "totaldeceased": "159199",
+        "totalrecovered": "11127953"
+    },
+    {
+        "dailyconfirmed": "47009",
+        "dailydeceased": "213",
+        "dailyrecovered": "21205",
+        "date": "21 March 2021",
+        "dateymd": "2021-03-21",
+        "totalconfirmed": "11645641",
+        "totaldeceased": "159412",
+        "totalrecovered": "11149158"
+    },
+    {
+        "dailyconfirmed": "40636",
+        "dailydeceased": "197",
+        "dailyrecovered": "29779",
+        "date": "22 March 2021",
+        "dateymd": "2021-03-22",
+        "totalconfirmed": "11686277",
+        "totaldeceased": "159609",
+        "totalrecovered": "11178937"
+    },
+    {
+        "dailyconfirmed": "47239",
+        "dailydeceased": "277",
+        "dailyrecovered": "23913",
+        "date": "23 March 2021",
+        "dateymd": "2021-03-23",
+        "totalconfirmed": "11733516",
+        "totaldeceased": "159886",
+        "totalrecovered": "11202850"
+    },
+    {
+        "dailyconfirmed": "53419",
+        "dailydeceased": "249",
+        "dailyrecovered": "26575",
+        "date": "24 March 2021",
+        "dateymd": "2021-03-24",
+        "totalconfirmed": "11786935",
+        "totaldeceased": "160135",
+        "totalrecovered": "11229425"
+    },
+    {
+        "dailyconfirmed": "59083",
+        "dailydeceased": "257",
+        "dailyrecovered": "32917",
+        "date": "25 March 2021",
+        "dateymd": "2021-03-25",
+        "totalconfirmed": "11846018",
+        "totaldeceased": "160392",
+        "totalrecovered": "11262342"
+    },
+    {
+        "dailyconfirmed": "62276",
+        "dailydeceased": "292",
+        "dailyrecovered": "30341",
+        "date": "26 March 2021",
+        "dateymd": "2021-03-26",
+        "totalconfirmed": "11908294",
+        "totaldeceased": "160684",
+        "totalrecovered": "11292683"
+    },
+    {
+        "dailyconfirmed": "62632",
+        "dailydeceased": "311",
+        "dailyrecovered": "28728",
+        "date": "27 March 2021",
+        "dateymd": "2021-03-27",
+        "totalconfirmed": "11970926",
+        "totaldeceased": "160995",
+        "totalrecovered": "11321411"
+    },
+    {
+        "dailyconfirmed": "68206",
+        "dailydeceased": "295",
+        "dailyrecovered": "32269",
+        "date": "28 March 2021",
+        "dateymd": "2021-03-28",
+        "totalconfirmed": "12039132",
+        "totaldeceased": "161290",
+        "totalrecovered": "11353680"
+    },
+    {
+        "dailyconfirmed": "56152",
+        "dailydeceased": "266",
+        "dailyrecovered": "36989",
+        "date": "29 March 2021",
+        "dateymd": "2021-03-29",
+        "totalconfirmed": "12095284",
+        "totaldeceased": "161556",
+        "totalrecovered": "11390669"
+    },
+    {
+        "dailyconfirmed": "53237",
+        "dailydeceased": "355",
+        "dailyrecovered": "41242",
+        "date": "30 March 2021",
+        "dateymd": "2021-03-30",
+        "totalconfirmed": "12148521",
+        "totaldeceased": "161911",
+        "totalrecovered": "11431911"
+    },
+    {
+        "dailyconfirmed": "72113",
+        "dailydeceased": "458",
+        "dailyrecovered": "40423",
+        "date": "31 March 2021",
+        "dateymd": "2021-03-31",
+        "totalconfirmed": "12220634",
+        "totaldeceased": "162369",
+        "totalrecovered": "11472334"
+    },
+    {
+        "dailyconfirmed": "81398",
+        "dailydeceased": "468",
+        "dailyrecovered": "50384",
+        "date": "1 April 2021",
+        "dateymd": "2021-04-01",
+        "totalconfirmed": "12302032",
+        "totaldeceased": "162837",
+        "totalrecovered": "11522718"
+    },
+    {
+        "dailyconfirmed": "89023",
+        "dailydeceased": "713",
+        "dailyrecovered": "44179",
+        "date": "2 April 2021",
+        "dateymd": "2021-04-02",
+        "totalconfirmed": "12391055",
+        "totaldeceased": "163550",
+        "totalrecovered": "11566897"
+    },
+    {
+        "dailyconfirmed": "92994",
+        "dailydeceased": "514",
+        "dailyrecovered": "60059",
+        "date": "3 April 2021",
+        "dateymd": "2021-04-03",
+        "totalconfirmed": "12484049",
+        "totaldeceased": "164064",
+        "totalrecovered": "11626956"
+    },
+    {
+        "dailyconfirmed": "103794",
+        "dailydeceased": "477",
+        "dailyrecovered": "52840",
+        "date": "4 April 2021",
+        "dateymd": "2021-04-04",
+        "totalconfirmed": "12587843",
+        "totaldeceased": "164541",
+        "totalrecovered": "11679796"
+    },
+    {
+        "dailyconfirmed": "96563",
+        "dailydeceased": "446",
+        "dailyrecovered": "50100",
+        "date": "5 April 2021",
+        "dateymd": "2021-04-05",
+        "totalconfirmed": "12684406",
+        "totaldeceased": "164987",
+        "totalrecovered": "11729896"
+    },
+    {
+        "dailyconfirmed": "115312",
+        "dailydeceased": "630",
+        "dailyrecovered": "59714",
+        "date": "6 April 2021",
+        "dateymd": "2021-04-06",
+        "totalconfirmed": "12799718",
+        "totaldeceased": "165617",
+        "totalrecovered": "11789610"
+    },
+    {
+        "dailyconfirmed": "126276",
+        "dailydeceased": "684",
+        "dailyrecovered": "59137",
+        "date": "7 April 2021",
+        "dateymd": "2021-04-07",
+        "totalconfirmed": "12925994",
+        "totaldeceased": "166301",
+        "totalrecovered": "11848747"
+    },
+    {
+        "dailyconfirmed": "131878",
+        "dailydeceased": "802",
+        "dailyrecovered": "61829",
+        "date": "8 April 2021",
+        "dateymd": "2021-04-08",
+        "totalconfirmed": "13057872",
+        "totaldeceased": "167103",
+        "totalrecovered": "11910576"
+    },
+    {
+        "dailyconfirmed": "144945",
+        "dailydeceased": "773",
+        "dailyrecovered": "77263",
+        "date": "9 April 2021",
+        "dateymd": "2021-04-09",
+        "totalconfirmed": "13202817",
+        "totaldeceased": "167876",
+        "totalrecovered": "11987839"
+    },
+    {
+        "dailyconfirmed": "152565",
+        "dailydeceased": "838",
+        "dailyrecovered": "90328",
+        "date": "10 April 2021",
+        "dateymd": "2021-04-10",
+        "totalconfirmed": "13355382",
+        "totaldeceased": "168714",
+        "totalrecovered": "12078167"
+    },
+    {
+        "dailyconfirmed": "169914",
+        "dailydeceased": "904",
+        "dailyrecovered": "75380",
+        "date": "11 April 2021",
+        "dateymd": "2021-04-11",
+        "totalconfirmed": "13525296",
+        "totaldeceased": "169618",
+        "totalrecovered": "12153547"
+    },
+    {
+        "dailyconfirmed": "160838",
+        "dailydeceased": "880",
+        "dailyrecovered": "96746",
+        "date": "12 April 2021",
+        "dateymd": "2021-04-12",
+        "totalconfirmed": "13686134",
+        "totaldeceased": "170498",
+        "totalrecovered": "12250293"
+    },
+    {
+        "dailyconfirmed": "185297",
+        "dailydeceased": "1026",
+        "dailyrecovered": "82271",
+        "date": "13 April 2021",
+        "dateymd": "2021-04-13",
+        "totalconfirmed": "13871431",
+        "totaldeceased": "171524",
+        "totalrecovered": "12332564"
+    },
+    {
+        "dailyconfirmed": "199584",
+        "dailydeceased": "1038",
+        "dailyrecovered": "93425",
+        "date": "14 April 2021",
+        "dateymd": "2021-04-14",
+        "totalconfirmed": "14071015",
+        "totaldeceased": "172562",
+        "totalrecovered": "12425989"
+    },
+    {
+        "dailyconfirmed": "216828",
+        "dailydeceased": "1184",
+        "dailyrecovered": "117897",
+        "date": "15 April 2021",
+        "dateymd": "2021-04-15",
+        "totalconfirmed": "14287843",
+        "totaldeceased": "173746",
+        "totalrecovered": "12543886"
+    },
+    {
+        "dailyconfirmed": "234002",
+        "dailydeceased": "1338",
+        "dailyrecovered": "122886",
+        "date": "16 April 2021",
+        "dateymd": "2021-04-16",
+        "totalconfirmed": "14521845",
+        "totaldeceased": "175084",
+        "totalrecovered": "12666772"
+    },
+    {
+        "dailyconfirmed": "260895",
+        "dailydeceased": "1498",
+        "dailyrecovered": "138209",
+        "date": "17 April 2021",
+        "dateymd": "2021-04-17",
+        "totalconfirmed": "14782740",
+        "totaldeceased": "176582",
+        "totalrecovered": "12804981"
+    },
+    {
+        "dailyconfirmed": "275063",
+        "dailydeceased": "1620",
+        "dailyrecovered": "143839",
+        "date": "18 April 2021",
+        "dateymd": "2021-04-18",
+        "totalconfirmed": "15057803",
+        "totaldeceased": "178202",
+        "totalrecovered": "12948820"
+    },
+    {
+        "dailyconfirmed": "257003",
+        "dailydeceased": "1757",
+        "dailyrecovered": "154357",
+        "date": "19 April 2021",
+        "dateymd": "2021-04-19",
+        "totalconfirmed": "15314806",
+        "totaldeceased": "179959",
+        "totalrecovered": "13103177"
+    },
+    {
+        "dailyconfirmed": "294365",
+        "dailydeceased": "2021",
+        "dailyrecovered": "166656",
+        "date": "20 April 2021",
+        "dateymd": "2021-04-20",
+        "totalconfirmed": "15609171",
+        "totaldeceased": "181980",
+        "totalrecovered": "13269833"
+    },
+    {
+        "dailyconfirmed": "315752",
+        "dailydeceased": "2101",
+        "dailyrecovered": "179434",
+        "date": "21 April 2021",
+        "dateymd": "2021-04-21",
+        "totalconfirmed": "15924923",
+        "totaldeceased": "184081",
+        "totalrecovered": "13449267"
+    },
+    {
+        "dailyconfirmed": "332531",
+        "dailydeceased": "2257",
+        "dailyrecovered": "192317",
+        "date": "22 April 2021",
+        "dateymd": "2021-04-22",
+        "totalconfirmed": "16257454",
+        "totaldeceased": "186338",
+        "totalrecovered": "13641584"
+    },
+    {
+        "dailyconfirmed": "345296",
+        "dailydeceased": "2620",
+        "dailyrecovered": "220545",
+        "date": "23 April 2021",
+        "dateymd": "2021-04-23",
+        "totalconfirmed": "16602750",
+        "totaldeceased": "188958",
+        "totalrecovered": "13862129"
+    },
+    {
+        "dailyconfirmed": "348996",
+        "dailydeceased": "2761",
+        "dailyrecovered": "215809",
+        "date": "24 April 2021",
+        "dateymd": "2021-04-24",
+        "totalconfirmed": "16951746",
+        "totaldeceased": "191719",
+        "totalrecovered": "14077938"
+    },
+    {
+        "dailyconfirmed": "354658",
+        "dailydeceased": "2808",
+        "dailyrecovered": "218626",
+        "date": "25 April 2021",
+        "dateymd": "2021-04-25",
+        "totalconfirmed": "17306404",
+        "totaldeceased": "194527",
+        "totalrecovered": "14296564"
+    },
+    {
+        "dailyconfirmed": "319471",
+        "dailydeceased": "2762",
+        "dailyrecovered": "249009",
+        "date": "26 April 2021",
+        "dateymd": "2021-04-26",
+        "totalconfirmed": "17625875",
+        "totaldeceased": "197289",
+        "totalrecovered": "14545573"
+    },
+    {
+        "dailyconfirmed": "362913",
+        "dailydeceased": "3286",
+        "dailyrecovered": "262349",
+        "date": "27 April 2021",
+        "dateymd": "2021-04-27",
+        "totalconfirmed": "17988788",
+        "totaldeceased": "200575",
+        "totalrecovered": "14807922"
+    },
+    {
+        "dailyconfirmed": "379404",
+        "dailydeceased": "3646",
+        "dailyrecovered": "274171",
+        "date": "28 April 2021",
+        "dateymd": "2021-04-28",
+        "totalconfirmed": "18368192",
+        "totaldeceased": "204221",
+        "totalrecovered": "15082093"
+    },
+    {
+        "dailyconfirmed": "386773",
+        "dailydeceased": "3502",
+        "dailyrecovered": "291727",
+        "date": "29 April 2021",
+        "dateymd": "2021-04-29",
+        "totalconfirmed": "18754965",
+        "totaldeceased": "207723",
+        "totalrecovered": "15373820"
+    },
+    {
+        "dailyconfirmed": "402014",
+        "dailydeceased": "3525",
+        "dailyrecovered": "299198",
+        "date": "30 April 2021",
+        "dateymd": "2021-04-30",
+        "totalconfirmed": "19156979",
+        "totaldeceased": "211248",
+        "totalrecovered": "15673018"
+    }
+]

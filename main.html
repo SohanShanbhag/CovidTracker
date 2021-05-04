@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+
+        <script src="objFunctions.js"></script>
+    </head>
+
+    <body style="background-color: palegoldenrod;">
+        <center><h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"><u>Covid Tracker - March and April 2021</u></h1></center>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <center><h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Choose the date to get all Coronavirus stats</h2></center>
+        <select name="choose" id="choose" style="border: 5px solid; background-color:springgreen; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; width:200px; text-align:center; cursor:pointer; height:50px; margin-left:42%">
+            <optgroup label="Select the date" id="selection"></optgroup>
+            <optgroup label="March">
+                <option value="1 March 2021">1 March 2021</option>
+                <option value="2 March 2021">2 March 2021</option>
+                <option value="3 March 2021">3 March 2021</option>
+                <option value="4 March 2021">4 March 2021</option>
+                <option value="5 March 2021">5 March 2021</option>
+                <option value="6 March 2021">6 March 2021</option>
+                <option value="7 March 2021">7 March 2021</option>
+                <option value="8 March 2021">8 March 2021</option>
+                <option value="9 March 2021">9 March 2021</option>
+                <option value="10 March 2021">10 March 2021</option>
+                <option value="11 March 2021">11 March 2021</option>
+                <option value="12 March 2021">12 March 2021</option>
+                <option value="13 March 2021">13 March 2021</option>
+                <option value="14 March 2021">14 March 2021</option>
+                <option value="15 March 2021">15 March 2021</option>
+                <option value="16 March 2021">16 March 2021</option>
+                <option value="17 March 2021">17 March 2021</option>
+                <option value="18 March 2021">18 March 2021</option>
+                <option value="19 March 2021">19 March 2021</option>
+                <option value="20 March 2021">20 March 2021</option>
+                <option value="21 March 2021">21 March 2021</option>
+                <option value="22 March 2021">22 March 2021</option>
+                <option value="23 March 2021">23 March 2021</option>
+                <option value="24 March 2021">24 March 2021</option>
+                <option value="25 March 2021">25 March 2021</option>
+                <option value="26 March 2021">26 March 2021</option>
+                <option value="27 March 2021">27 March 2021</option>
+                <option value="28 March 2021">28 March 2021</option>
+                <option value="29 March 2021">29 March 2021</option>
+                <option value="30 March 2021">30 March 2021</option>
+                <option value="31 March 2021">31 March 2021</option>
+            </optgroup>
+
+            <optgroup label="April">
+                <option value="1 April 2021">1 April 2021</option>
+                <option value="2 April 2021">2 April 2021</option>
+                <option value="3 April 2021">3 April 2021</option>
+                <option value="4 April 2021">4 April 2021</option>
+                <option value="5 April 2021">5 April 2021</option>
+                <option value="6 April 2021">6 April 2021</option>
+                <option value="7 April 2021">7 April 2021</option>
+                <option value="8 April 2021">8 April 2021</option>
+                <option value="9 April 2021">9 April 2021</option>
+                <option value="10 April 2021">10 April 2021</option>
+                <option value="11 April 2021">11 April 2021</option>
+                <option value="12 April 2021">12 April 2021</option>
+                <option value="13 April 2021">13 April 2021</option>
+                <option value="14 April 2021">14 April 2021</option>
+                <option value="15 April 2021">15 April 2021</option>
+                <option value="16 April 2021">16 April 2021</option>
+                <option value="17 April 2021">17 April 2021</option>
+                <option value="18 April 2021">18 April 2021</option>
+                <option value="19 April 2021">19 April 2021</option>
+                <option value="20 April 2021">20 April 2021</option>
+                <option value="21 April 2021">21 April 2021</option>
+                <option value="22 April 2021">22 April 2021</option>
+                <option value="23 April 2021">23 April 2021</option>
+                <option value="24 April 2021">24 April 2021</option>
+                <option value="25 April 2021">25 April 2021</option>
+                <option value="26 April 2021">26 April 2021</option>
+                <option value="27 April 2021">27 April 2021</option>
+                <option value="28 April 2021">28 April 2021</option>
+                <option value="29 April 2021">29 April 2021</option>
+                <option value="30 April 2021">30 April 2021</option>
+            </optgroup>
+        </select>
+        <br><br><br>
+        <button id="submit" type="submit" style="margin-left: 42%; background-color:dodgerblue; width:200px; cursor:pointer; height:30px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif" onclick="showStats()">Submit</button>
+        
+        <div id="stats" style="display: none; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+            <h3>Date : <span id="date"></span></h3>
+            <h3>Daily Infected : <span id="newCases"></span></h3>
+            <h3>Daily Recovered : <span id="recover"></span></h3>
+            <h3>Daily Deceased : <span id="newDeaths"></span></h3>
+            <h3>Total Infected : <span id="totalInfected"></span></h3>
+            <h3>Total Recovered : <span id="totalRecovered"></span></h3>
+            <h3>Total Deceased : <span id="totalDeceased"></span></h3>
+        </div>
+
+        <script>
+            function showStats(){
+                document.getElementById("stats").style.display = "block"
+            }
+            $(function(){
+            $('#submit').click(function(){
+                var selected = $('#choose').val();
+                $.getJSON("data.json", function(obj){
+                    $.each(obj, function(key, value){
+                        if(value.date === selected){
+                            $("#newCases").text(value.dailyconfirmed.toLocaleString('en-US'))
+                            $('#date').text(value.date)
+                            $('#recover').text(value.dailyrecovered.toLocaleString('en-IN'))
+                            $('#newDeaths').text(value.dailydeceased)
+                            $("#totalInfected").text(value.totalconfirmed)
+                            $("#totalDeceased").text(value.totaldeceased)
+                            $("#totalRecovered").text(value.totalrecovered)
+                        }
+                    })
+                })
+            })
+            })
+        </script>
+    </body>
+</html>
